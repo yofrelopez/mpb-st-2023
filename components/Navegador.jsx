@@ -45,6 +45,9 @@ export const Navegador = () => {
                 <Link href="/" className="block py-2 pl-3 pr-4 text-gray-600 rounded hover:text-white hover:bg-green-800 md:hover:bg-opacity-50 md:hover:text-gray-100 md:p-0 " aria-current="page">Inicio</Link>
               </li>
               <li>
+                <Link href="/actividades" className="block py-2 pl-3 pr-4 text-gray-600 rounded hover:text-white hover:bg-green-800 md:hover:bg-opacity-50 md:hover:text-gray-100 md:p-0 ">Actividades</Link>
+              </li>
+              <li>
                 <Link href="/nosotros" className="block py-2 pl-3 pr-4 text-gray-600 rounded hover:text-white hover:bg-green-800 md:hover:bg-opacity-50 md:hover:text-gray-100 md:p-0 ">Nosotros</Link>
               </li>
             </ul>
