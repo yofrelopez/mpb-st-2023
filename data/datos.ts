@@ -118,6 +118,29 @@ export const datosEventos: Event[] = [
       "¡Padres de familia y niños de los centros poblados de Barranca! Les invitamos a participar en un recorrido turístico inolvidable que partirá desde la Plaza de Armas de la provincia. En este tour, podrán conocer lugares emblemáticos como Caral, El Áspero, el Museo Bolivariano y La Fortaleza de Paramonga, y aprender sobre la historia y la cultura de nuestra región. Este recorrido estará guiado por expertos en turismo y adaptado para que los niños disfruten de la experiencia. ¡No pierdan la oportunidad de explorar los tesoros ocultos de Barranca con toda la familia!",
   },
 
+  {
+    pic: '/images/10.jpg',
+    id:'10',
+    nombre: "ENTREGA DE TÍTULOS DE PROPIEDAD, EN EL CP BLANCA VARELA",
+    Lugar: "PUERTO SUPE ",
+    hora: "1:00 P.m.",
+    fecha: "Sábado 25 de Febrero",
+    descripcion:
+      "¡Atención, habitantes del centro poblado Blanca Varela! El alcalde Lucho Ueno tiene el agrado de informarles que los títulos de propiedad de sus viviendas ya se encuentran disponibles para su entrega. Este importante documento les garantiza la seguridad y el respaldo legal sobre sus propiedades",
+  },
+
+  {
+    pic: '/images/09.jpg',
+    id:'11',
+    nombre: "ENTREGA DE TÍTULOS DE PROPIEDAD, EN EL CP LAS LOMAS",
+    Lugar: "SANTA ELENA NORTE",
+    hora: "1:00 P.m.",
+    fecha: "Sábado 25 de Febrero",
+    descripcion:
+      "¡Atención, habitantes del centro poblado Las Lomas! El alcalde Lucho Ueno tiene el agrado de informarles que los títulos de propiedad de sus viviendas ya se encuentran disponibles para su entrega. Este importante documento les garantiza la seguridad y el respaldo legal sobre sus propiedades",
+  },
+
+
 
 
 
