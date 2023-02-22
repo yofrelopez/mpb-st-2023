@@ -44,7 +44,7 @@ const Actividades = () => {
             </p>
             <div className='flex justify-center'>
               <iframe id="ytplayer" width="360" height="520"
-                src="http://www.youtube.com/embed/f5kUoroh9uo?autoplay=1&origin=https://semana-turistica-2023.vercel.app"
+                src="https://www.youtube.com/embed/f5kUoroh9uo?autoplay=1&origin=https://semana-turistica-2023.vercel.app/actividades"
                 />
             </div>
 
