@@ -24,6 +24,7 @@ export const Layout = ({children}) => {
             <meta property = 'og:url' content='https://semana-turistica-2023.vercel.app/'/>
             <meta property = 'og:site_name' content='XXIX Semana Turística'/>
             <meta property= "og:title" content="XXIX Semana Turística" />
+            <meta property="fb:app_id" content="734250714551097" />
 
             
             <link rel="icon" href="/fav.ico" />
