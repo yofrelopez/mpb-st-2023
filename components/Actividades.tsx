@@ -86,7 +86,7 @@ const Actividades = () => {
             <p className="text-gray-200 my-2 px-4 pb-4">
             🔰 Con mucha algarabía y entusiasmo cientos de familias y amigos se dieron cita en
             el mirador Grau para disfrutar de un gran espectáculo musical en el marco de la celebración
-            por la XXIX Semana Turística, el invitado especial Zambo Barbieri y distintas agrupaciones
+            por la XXIX Semana Turística de Barranca, el invitado especial Zambo Barbieri y distintas agrupaciones
             locales pusieron a bailar a todos los asistentes.
             </p>
 
