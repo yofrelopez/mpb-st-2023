@@ -20,7 +20,7 @@ export const Layout = ({children}) => {
             <meta property="og:type" content="website" />
             <meta property = 'og:description' content= 'Cronograma de Actividades de la XXIX Semana Turística de Barranca'/>
             <meta property="og:image:type" content="image/jpeg" />
-            <meta property = 'og:image' itemprop="image" content='/images/fb_image.jpg'/>
+            <meta property = 'og:image' content='https://semana-turistica-2023.vercel.app/images/fb_image.jpg'/>
             <meta property = 'og:url' content='https://semana-turistica-2023.vercel.app/'/>
             <meta property = 'og:site_name' content='XXIX Semana Turística'/>
             <meta property= "og:title" content="XXIX Semana Turística" />
